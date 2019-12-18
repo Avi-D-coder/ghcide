@@ -38,7 +38,7 @@ import System.Environment
 import System.IO
 import System.Exit
 import Paths_ghcide
-import Development.Shake hiding (Env)
+import Development.Shake hiding (Env, Info)
 import qualified Data.Set as Set
 import qualified Data.Map.Strict as Map
 
